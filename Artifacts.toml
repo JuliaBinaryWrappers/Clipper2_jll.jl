@@ -1,288 +1,174 @@
 [[Clipper2]]
 arch = "aarch64"
-git-tree-sha1 = "b2f80988615b762a0db5a74dbc8a5c94d752f255"
+git-tree-sha1 = "a0f1d79fb1112e5f469e4743f0e6266a3901c342"
 os = "macos"
 
     [[Clipper2.download]]
-    sha256 = "78234dfc4b4793ef857d037add206ef7ed70784a76860e6b56e76aa5facd3907"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.aarch64-apple-darwin.tar.gz"
-[[Clipper2]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5dcb74833d63c8c9b3d92c643f79b5331255b050"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "1b9602f7c971ec3192a9b58d93e66fab2beb72fdb22dc7ea66de5396477dc5b7"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "0381cc76b552ad327c9f4d23ce890eb1e68386fcf88f686d8346b6460ab428ec"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.aarch64-apple-darwin.tar.gz"
 [[Clipper2]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "634604d5b27d23822826ceb95a7532c9f3683647"
+git-tree-sha1 = "63e2b2595a97f8d6068d459de5e2aa637f268fec"
 libc = "glibc"
 os = "linux"
 
     [[Clipper2.download]]
-    sha256 = "fe51787d60fa0c788e49dbbcd02923e6d42955986ecc93be15b890078e6e7129"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.aarch64-linux-gnu-cxx11.tar.gz"
-[[Clipper2]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c1b2e50f7ab3c24d9273c8fdf2959ac14449d2a2"
-libc = "musl"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "bbe535a8d1622f17a98908aee46ef923ca87c556971022c11a2ba41211eb0c64"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "5145c9579de90ed1a8f520e261c86712d5d81b561a3d056a28eb54808e80610f"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Clipper2]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cfbd441d3a93e354af078399e571ae2a0a23b3b9"
+git-tree-sha1 = "ef9f405d768e6ef01c626ce509c678ab8839bea6"
 libc = "musl"
 os = "linux"
 
     [[Clipper2.download]]
-    sha256 = "8aa4f7b5517d6ab31aa15a60d660c68ee8bfe88e0a939bb6b952071bc04f6e3c"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "32c4dcb02d6ea542326ee0bad1c08ec1af6d791c1dc28f122fd59bfa7b5796d0"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.aarch64-linux-musl-cxx11.tar.gz"
 [[Clipper2]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "23f39d464c96a70d8a1ce020738eda7295ab8221"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "c63159fc8e91544a62ed37f0f619ea35c5c66ed0b76150786d5ed03ae6f2191e"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[Clipper2]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f9459eaa110c6c2e7020ce005ab878976229f50b"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "3527fd3a5187cbf3a5d2a3a6900e43a1afe8929b7dd461baf08293cd3f010ed5"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[Clipper2]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f9b77ab2bebc5f7f74a41886dd1d9b4613d8e61d"
-libc = "musl"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "bc2c0fe937ebf7a7713bcd23d93cc6cd967a371f5be7836df724de2645003360"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[Clipper2]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2e54115ab49c6e1d3588c9fbd53cdac206437907"
-libc = "musl"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "00df203b4d25bc193e67e7aaaccb8c9e3555c1180a7c8dbabbe5009576060d11"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[Clipper2]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "89852cc200ba8107e44eb36be3cab4771242aa3f"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "2a28502c35b1f5893e02e8fd42d52b0ec084e378a97b7d07cf6bf02f116b8c69"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[Clipper2]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4bcdd9f5b6b33d175a5e6596d29398105c828176"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "b633cdc44259a6c1b98bf06efe747d5c0438df186cf4574cfe165d120927b711"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[Clipper2]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d4e945e0ed1a2d26f149d31e242cd0e19a6f871c"
-libc = "musl"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "5d94f4376cda672a69a200ca285efbb0f7639f0e7e62a28e2cebbc7f36a9abe8"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[Clipper2]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3f3c66eb81ae0cf6adb32a1e5c765b5ba8b4f759"
-libc = "musl"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "797e51ef8ba77dcebf378b2ba186dccb8b30c1f3f6d8323e241a7f7cc530ac93"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[Clipper2]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2fd525dbf7e70e8797fd30892fc374df31356f64"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "4cd75f63e645d725ad27cffe174fb137a3be418aec2940108f86fcc6b2807fe6"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.i686-linux-gnu-cxx03.tar.gz"
-[[Clipper2]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a3ee28b31c1a0f438d3f08f54456064f4e4d4824"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "aa890b41a5a93e467010b458dba1a6b6e5f5453716a67bee88e12ee878f120bc"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.i686-linux-gnu-cxx11.tar.gz"
-[[Clipper2]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "479a7d403ecfd78427993a74baa35849e6d40f86"
-libc = "musl"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "88c25fa3aa43627e4ae5d17f721de727dfd568fdb2f9911c736ef1369714757b"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.i686-linux-musl-cxx03.tar.gz"
-[[Clipper2]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4f3ea11128012a6b546ec5fd8d03d67d590eb385"
-libc = "musl"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "7dd97e1f41fe7b7c1a02b631814e680017eeffec4157fb6e034fda3e0f115543"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.i686-linux-musl-cxx11.tar.gz"
-[[Clipper2]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1eee441ad8ea1ed6fa11ac2605ae785970fcc83f"
-os = "windows"
-
-    [[Clipper2.download]]
-    sha256 = "6001114e9972dee1fb9d4d1f1dd15e961e40802fb9e7b628e2deb5a24bc99f1b"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.i686-w64-mingw32-cxx03.tar.gz"
-[[Clipper2]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e01efb76c86e5eb8130c7634c7afd0c2589fca07"
-os = "windows"
-
-    [[Clipper2.download]]
-    sha256 = "b2172f9fbc7d1ceccc8c3a1dd9f5d9ac772edda05e14f307b3a17dab8a37ca37"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.i686-w64-mingw32-cxx11.tar.gz"
-[[Clipper2]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c72939fb7485ad289b3551c8e4ed69eb3e1531bb"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "f9c3e9a48d5e9bd2490221353c167685d10a87e4b3233eff45713806caee2e67"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[Clipper2]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7a8cd2db75b58f8ad18c435d5d6b472ebad59411"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "3adf465d8152fb7c1f08d0fa957661860c7bc598a8ce23e36af36c6e7d2ee86d"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[Clipper2]]
-arch = "x86_64"
-git-tree-sha1 = "c128aa94e4d5c1ff27dce2aaa949dffd057b5e10"
-os = "macos"
-
-    [[Clipper2.download]]
-    sha256 = "27fe5135ccc857ee24221a9f765ab1c47c4b629efcdbd4e722e8bd0f2606b054"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.x86_64-apple-darwin.tar.gz"
-[[Clipper2]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "642ab97f419ef2fbb7c6f6515be16ae1948418b8"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "16159c659936ebf93baa6b3cfebc0b8dc24340f9e06e4072b08a5397f1067356"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.x86_64-linux-gnu-cxx03.tar.gz"
-[[Clipper2]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6412bf9f1ed445d3726be2ea874b3e9e3719826a"
-libc = "glibc"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "21a371527f788d1bd51e5c4900947b1812c89678d6ea2718728afe856a7bd295"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.x86_64-linux-gnu-cxx11.tar.gz"
-[[Clipper2]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5775d12472c7096df2bfb2fc70651c3a8bca319b"
-libc = "musl"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "932ad3c865f69a61f9003cc3c9cde3f630866dc25e2f2b236f5eaf525dad0afc"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.x86_64-linux-musl-cxx03.tar.gz"
-[[Clipper2]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6ed9eb2d79b01b9d3e50f0ab42c7f170a9be44ab"
-libc = "musl"
-os = "linux"
-
-    [[Clipper2.download]]
-    sha256 = "ac9bdbefa4aa1b50307d785b41d7c6c0fbe85699b222a495f5021c054b836e1b"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.x86_64-linux-musl-cxx11.tar.gz"
-[[Clipper2]]
-arch = "x86_64"
-git-tree-sha1 = "3408bd6dbcfcaf0ccc66775cc7524126035e121b"
+arch = "aarch64"
+git-tree-sha1 = "5f096811f6d3fb12c979113ba2f5cfe7e705a11a"
 os = "freebsd"
 
     [[Clipper2.download]]
-    sha256 = "c90e11ce87e4ee9c957fc3a7ae33a61627a7e3c71380a7edcd0290b0148ef060"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d579fb62db8d08093d8087f739cdf06e4af7c468dc2d73c104ae9b9a7ffdb2c6"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.aarch64-unknown-freebsd.tar.gz"
 [[Clipper2]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5f7c39de23262f10009ba94b55f9b87a21345bbc"
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8fd1edc148bc33c3a3115e99968508192014dc8e"
+libc = "glibc"
+os = "linux"
+
+    [[Clipper2.download]]
+    sha256 = "feecb50d4c4396956234e96562e1257c78dae91da156f66d158f07dbecf77ff0"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Clipper2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd4cc593fae25adf99f7fccdf1f4c5e1db275cb8"
+libc = "musl"
+os = "linux"
+
+    [[Clipper2.download]]
+    sha256 = "733f90e3690311de121effe6d983682ea422119abf9d280b128c2d54babc025d"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Clipper2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "10f82f578b094f4c0f8a9a3011ad7bd1e1f0169e"
+libc = "glibc"
+os = "linux"
+
+    [[Clipper2.download]]
+    sha256 = "a8b1e70f72f309d264f7878f0cc3002cc110b4c064fab4f8fb1a9963e399ae6e"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Clipper2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8186fc46d9676fe5c9c0a24369cda4194f7f6e5c"
+libc = "musl"
+os = "linux"
+
+    [[Clipper2.download]]
+    sha256 = "8a6d443bdad703fa8db6d65b4eeb3af400f851ad4b617432d6011277e51b5f76"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Clipper2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "90c6becd4c7e54244774899757ddfddf6a32a940"
+libc = "glibc"
+os = "linux"
+
+    [[Clipper2.download]]
+    sha256 = "e47b44b2fca2fbe90c88db920f5ff7d139593b58a19281b93b82306f8581d627"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.i686-linux-gnu-cxx11.tar.gz"
+[[Clipper2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "89569320168c1fa8b05497a227d85ffd50635c68"
+libc = "musl"
+os = "linux"
+
+    [[Clipper2.download]]
+    sha256 = "6a839996b51a1e4677120e924bbbb120cc871dacc17ec274ba9570c607fb6f8f"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.i686-linux-musl-cxx11.tar.gz"
+[[Clipper2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7314d67a1660d5566a922a29a7a939c4ff9fbaf6"
 os = "windows"
 
     [[Clipper2.download]]
-    sha256 = "1625ebf735149f2af6ea105a21381afd401b42e42b510b92cc448bc01a1519fb"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "b2f7edc31cc69e820e75e1d38b7f1fdc0059cfb5e239f50b6247f3af8b50f06e"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.i686-w64-mingw32-cxx11.tar.gz"
+[[Clipper2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "12ece1ec98fe27ea76745ddaa944ec460ead3c33"
+libc = "glibc"
+os = "linux"
+
+    [[Clipper2.download]]
+    sha256 = "943ff4f59b36d649114f790ce79e069d602783e8297d240d7f84c9b915909dec"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Clipper2]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "adc0c57e95232854e5d741d819a60a12b65d1b13"
+libc = "glibc"
+os = "linux"
+
+    [[Clipper2.download]]
+    sha256 = "93402ce4d7aa843bfd83fa544612f3f5bedbcd5f2d9f123bbb5c4103f28cb60b"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.riscv64-linux-gnu-cxx11.tar.gz"
+[[Clipper2]]
+arch = "x86_64"
+git-tree-sha1 = "fdc4fd266f32d4f48d39a84a0a25833e6d2d050e"
+os = "macos"
+
+    [[Clipper2.download]]
+    sha256 = "867b7cec931ff3bf27646ffa4ad3ff154944aa63df91e61825f8873c84f472cd"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.x86_64-apple-darwin.tar.gz"
 [[Clipper2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "586536f1ee75b3cb5211851d0a5f435e35cc5818"
+git-tree-sha1 = "9810742585c2fe2f0a88e38056699f669a4b2677"
+libc = "glibc"
+os = "linux"
+
+    [[Clipper2.download]]
+    sha256 = "b56e2393e6f0b9a823746b57f4f76c2846874603c122d3f08ee6bae393b8b921"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[Clipper2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "459000f69935c4870f0b89138493ca95b1ce05f1"
+libc = "musl"
+os = "linux"
+
+    [[Clipper2.download]]
+    sha256 = "d6d556a306dda952640ccc60b8ba45b2bb11133cbf78000fa432adcc82d72ed5"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.x86_64-linux-musl-cxx11.tar.gz"
+[[Clipper2]]
+arch = "x86_64"
+git-tree-sha1 = "b65f26980d175571142b7fa0d338ea39e698bc56"
+os = "freebsd"
+
+    [[Clipper2.download]]
+    sha256 = "6f5cd5af73358e033de64384b778d4fc60aabc34a8bc1f790ab79f27b740cb5f"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.x86_64-unknown-freebsd.tar.gz"
+[[Clipper2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cb66c05341ccdb14f8076b5c478534a4c24ba5d9"
 os = "windows"
 
     [[Clipper2.download]]
-    sha256 = "6511e52a8f8598773d9b8b2f8a667938102527f2d8710582bd969c629d952db9"
-    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v1.2.2+0/Clipper2.v1.2.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "11c5039e74d0501fe2dd06a86251e5d65621ae054d4a6a2c542558617919a1cb"
+    url = "https://github.com/JuliaBinaryWrappers/Clipper2_jll.jl/releases/download/Clipper2-v2.0.1+0/Clipper2.v2.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
